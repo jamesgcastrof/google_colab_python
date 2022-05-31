@@ -1,1 +1,1 @@
-# Testes utiliazndo a bibilioteca Random do Python
+# Testes utilizando a bibilioteca Random do Python
